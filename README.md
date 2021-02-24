@@ -1,5 +1,7 @@
 This is the companion repository for Vite.js's [issue XX]().
 
+The app has been created through `npm init @vitejs/app`.
+
 To reproduce the error:
 - `$ npm i`
 - `$ npm run dev`
