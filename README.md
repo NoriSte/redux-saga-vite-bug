@@ -1,4 +1,4 @@
-This is the companion repository for Vite.js's [issue XX]().
+This is the companion repository for Vite.js's [#2219](https://github.com/vitejs/vite/issues/2219).
 
 The app has been created through `npm init @vitejs/app`.
 
